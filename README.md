@@ -1,4 +1,4 @@
-# BUT2_Automatisation_Tests
+# Bataille Navale
 
 ## Présentation
 
